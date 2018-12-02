@@ -1,0 +1,6 @@
+tensorflow==1.12.rc0
+scipy==1.2.0rc1
+resampy==0.2.1
+six==1.11.0
+numpy==1.14.5
+SoundFile==0.10.2
